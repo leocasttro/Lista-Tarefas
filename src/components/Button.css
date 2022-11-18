@@ -1,0 +1,15 @@
+.add-button {
+  background-color: rgba(255, 31, 31, 0.692);
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 5px;
+  width: 100%;
+  font-size: 16px;
+  color: #44475a;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: red;
+}
